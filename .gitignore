@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Pycharm
+.idea/
+
+# OS
+*.DS_Store
+
+# Secrets
+*.env
+config.json
+*.key
+*.token
